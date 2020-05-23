@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Vinod test web site ";
+echo "This is vinod's new web site VERSION 2";
 ?>
 
 </body>
