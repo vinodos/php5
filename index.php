@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "This is vinod's new web site VERSION 66666";
+echo "This is vinod's new web site VERSION 7777777";
 ?>
 
 </body>
